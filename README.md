@@ -1,8 +1,9 @@
 # Hi there, I'm Satyam Kumar 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam-Kumar-Singh&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam-Kumar-Singh&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Kumar-Singh&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-Kumar-Singh&layout=compact&theme=radical)
+
 
 ## Skills and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
