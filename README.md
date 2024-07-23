@@ -1,7 +1,4 @@
 ## Hi there 👋
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-Kumar-Singh&show_icons=true" />
-</picture>
 
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyam-Kumar-Singh&show_icons=true&theme=radical)
 
