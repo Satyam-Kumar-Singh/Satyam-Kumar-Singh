@@ -1,7 +1,9 @@
-![Banner Image](https://www.shutterstock.com/image-photo/empty-software-developer-office-workplace-desk-2287185491)
+![MasterHead](https://www.shutterstock.com/image-photo/empty-software-developer-office-workplace-desk-2287185491)
 
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h5 align="center">A passionate Full Stack developer from India with experience in Java, Spring Boot, MySQL, Kafka, Jenkins, Kubernetes, Docker, Jira, Hibernate</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
+
+I am a full stack developer with experience in Java, Spring Boot, MySQL, Kafka, Jenkins, Kubernetes, Docker, Jira, Hibernate, and MERN technology. I have 1 year of experience with the MERN stack (React, JavaScript, Express, Node.js), including designing database architecture and modularizing the full backend. I have made 150+ APIs and implemented real-time database technology and real-time streaming technologies like WebSocket. I also design low-level design (LLD) and high-level design (HLD) for applications.
 
 <img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
