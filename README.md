@@ -37,3 +37,22 @@ I am a full stack developer with experience in Java, Spring Boot, MySQL, Kafka, 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam-kumar-singh&show_icons=true&theme=radical&locale=en" alt="satyam-kumar-singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-kumar-singh&theme=radical" alt="satyam-kumar-singh" /></p>
+
+## Achievements
+
+- **Pull Shark x3**: Awarded for making multiple successful pull requests.
+- **Quickdraw**: Recognized for quickly creating and submitting pull requests.
+- **YOLO**: Celebrated for taking bold and impactful steps in your projects.
+
+<p align="left">
+  <a href="https://github.com/your-profile" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Achievement-Pull_Shark%20x3-brightgreen" alt="Pull Shark x3" width="150" height="30"/>
+  </a>
+  <a href="https://github.com/your-profile" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Achievement-Quickdraw-brightgreen" alt="Quickdraw" width="150" height="30"/>
+  </a>
+  <a href="https://github.com/your-profile" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Achievement-YOLO-brightgreen" alt="YOLO" width="150" height="30"/>
+  </a>
+</p>
+
