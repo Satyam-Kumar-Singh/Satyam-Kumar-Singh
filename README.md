@@ -1,8 +1,9 @@
+![Banner Image](https://www.shutterstock.com/image-photo/empty-software-developer-office-workplace-desk-2287185491)
+
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h5 align="center">A passionate Full Stack developer from India with experience in Java, Spring Boot, MySQL, Kafka, Jenkins, Kubernetes, Docker, Jira, Hibernate</h3>
 
-
+<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [CivilBrain](https://civilbrain.ai/)
 
