@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-photo/empty-software-developer-office-workplace-desk-2287185491)
+![hii]()
 
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
@@ -30,11 +30,13 @@ I am a full stack developer with experience in Java, Spring Boot, MySQL, Kafka, 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-kumar-singh&show_icons=true&theme=radical&locale=en&layout=compact" alt="satyam-kumar-singh" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-kumar-singh&theme=radical" alt="satyam-kumar-singh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam-kumar-singh&show_icons=true&theme=radical&locale=en" alt="satyam-kumar-singh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam-kumar-singh&show_icons=true&theme=radical&locale=en" alt="satyam-kumar-singh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-kumar-singh&theme=radical" alt="satyam-kumar-singh" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-kumar-singh&show_icons=true&theme=radical&locale=en&layout=compact" alt="satyam-kumar-singh" />
+</div>
 
 ## Achievements
 
