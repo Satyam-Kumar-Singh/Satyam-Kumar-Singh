@@ -19,6 +19,7 @@ I am a full stack developer with experience in Java, Spring Boot, MySQL, Kafka, 
 <p align="left">
 <a href="https://linkedin.com/in/satyam-kumar-876b141b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-kumar-876b141b9" height="30" width="40" /></a>
 <a href="https://instagram.com/urstrulysatyamsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="urstrulysatyamsingh" height="30" width="40" /></a>
+<a href="https://dev.to/satyamkumarsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="satyamkumarsingh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
